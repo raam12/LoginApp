@@ -1,5 +1,5 @@
 {
-  "name": "mong_login",
+  "name": "LoginApp",
   "version": "1.0.0",
   "description": "A simple login application using Node.js, express.js, passport.js, MongodB and nodemailer.",
   "scripts": {
